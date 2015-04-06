@@ -31,8 +31,13 @@ public class Solution {
                     result.next = node;
                     result = node;
                 }
-                p1 = p1.next;
-                p2 = p2.next;
+				if(p1 != null){
+					p1 = p1.next;
+				}
+                if(p2 != null){
+					p2 = p2.next;
+				}
+              
             }
             if(fag != 0){
                 result.next = new ListNode(fag);
