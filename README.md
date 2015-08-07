@@ -40,4 +40,19 @@ http://blog.jobbole.com/25775/
 
   public static int who(String in); 
  
+并发控制
+Apache Jackrabbit内部的并发模型相当复杂，在JackRabbit 1.x发布周期内报告并修复了大量的死锁问题。这篇文章是设计和code review的成果，旨在主动预防其他类似的问题
+
+此文是关于Jackrabbit的内部并发和同步机制模型，不是关于JCR的锁特性。注意此文是从架构层面审阅并发控制，并不关注像个别类或组件的多线程安全之类的问题。
+此review是基于JackRabbit 1.5版本的默认版本
+
+架构背景
+
+
+从并发控制方面，Jackrabbit 架构大概可以分成下面的五个层次
+1.集群
+2.仓库
+3.工作空间
+4.会话
+5.事务
 
