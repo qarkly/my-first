@@ -21,6 +21,8 @@ http://blog.jobbole.com/25775/
   -http://www.importnew.com/14429.html
 * Doug Lea's workstation
   http://g.oswego.edu/
+* leetcode
+https://siddontang.gitbooks.io/leetcode-solution/content/linked_list/linked_list_cycle.html
 
 ###单词博弈
 
