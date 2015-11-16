@@ -25,7 +25,7 @@ http://blog.jobbole.com/25775/
 https://siddontang.gitbooks.io/leetcode-solution/content/linked_list/linked_list_cycle.html
 * G1
  http://www.oracle.com/technetwork/tutorials/tutorials-1876574.html
-*lamda
+* lamda
 https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
 
 ###单词博弈
