@@ -27,6 +27,8 @@ https://siddontang.gitbooks.io/leetcode-solution/content/linked_list/linked_list
  http://www.oracle.com/technetwork/tutorials/tutorials-1876574.html
 * lamda
 https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
+* 工具收集
+http://segmentfault.com/q/1010000002404545?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 ###单词博弈
 
