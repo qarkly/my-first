@@ -30,6 +30,9 @@ https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
 * 工具收集
 http://segmentfault.com/q/1010000002404545?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
+* Java 安全编程
+https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java
+
 ###单词博弈
 
 题目如下： 
